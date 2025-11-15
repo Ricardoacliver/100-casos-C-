@@ -1,7 +1,5 @@
 using System;
 
-
-
 public class Exerc35
 {
     static void Main(string[] args)
@@ -37,3 +35,4 @@ public class Exerc35
 
     }
 }
+
